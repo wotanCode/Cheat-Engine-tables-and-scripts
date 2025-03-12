@@ -40,8 +40,3 @@ Tus contribuciones serán revisadas y, si se aprueban, se fusionarán con el rep
 ## Licencia
 
 El contenido de este repositorio está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Al utilizar las tablas de Cheat Engine, direcciones de memoria y scripts de este repositorio, aceptas cumplir con los términos de esta licencia.
-
-<hr/>
-
-#### Licencia
-Este proyecto está bajo la Licencia MIT.
